@@ -1,4 +1,4 @@
-//Setting username,user email,coreeditor
+//Setting username,user email,core   editor
 
 
 1.git config --global user.name "Ram"   // setting the username.
