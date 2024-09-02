@@ -8,11 +8,14 @@
 
 4:  git merge Branch_Name                       //merge changes branches
 
+5:  git pull origin main                       // update the main that a branch is going to merged.
+
 <<<< conflict resolution markers >>>>
 
 5:  git branch --merged                         //show branches which we have already merged
 
 6:  git branch --no-merged                      //not already merge branches
+
 
 //  give warning if Branch_Name is not merged
 7:  git branch -d Branch_Name                   //delete branch gives error/warning if not merged
